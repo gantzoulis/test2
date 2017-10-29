@@ -8,9 +8,8 @@ public class init : MonoBehaviour {
 	void Start ()
     {
         Debug.Log("PP Init");
-        Debug.Log("GA Init");
         Debug.Log("PP Edit2");
-        Debug.Log("GA Edit 2");
+        Debug.Log("PP RULES");
     }
 	
 	// Update is called once per frame
